@@ -4,7 +4,7 @@
 
 <img src="resource/todo_list.gif">
 
-<video src="resource/todo_list.mp4"> </video>
+<video>  <source src="resource/todo_list.mp4" type="video/mp4"> </video>
 
 ## Getting Started
 
