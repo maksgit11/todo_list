@@ -4,7 +4,7 @@
 
 <img src="resource/todo_list.gif">
 
-<video src="resource/todo_list.mp4" width=180/> </video>
+[![Alternate Text]({resource/todo_list.gif})]({resource/todo_list.mp4} "Link Title")
 
 ## Getting Started
 
