@@ -4,6 +4,8 @@
 
 <img src="resource/todo_list.gif">
 
+<video src="resource/todo_list.mp4">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
