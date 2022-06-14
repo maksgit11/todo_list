@@ -1,10 +1,8 @@
-# todo_list
+# Todo_list Flutter
 
 **A simple flutter todo list app. This app is based on YouTube tutorials. Uses Hive database**
 
 <img src="resource/todo_list.gif">
-
-[![Alternate Text]({resource/todo_list.gif})]({resource/todo_list.mp4} "Link Title")
 
 ## Getting Started
 
