@@ -1,6 +1,8 @@
 # todo_list
 
-A new Flutter project.
+**A simple flutter todo list app. This app is based on YouTube tutorials. Uses Hive database**
+
+<img src="todo_list.gif">
 
 ## Getting Started
 
